@@ -3,7 +3,6 @@
 
 - 💬 Ask me about **Kotlin, Java, XML, Firebase**
 
-- 📫 How to reach me **urielct2022@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
