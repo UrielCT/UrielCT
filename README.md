@@ -1,9 +1,8 @@
-<img src="https://raw.githubusercontent.com/urielct/urielct/main/github_background.png" alt="Background" />
 
 <h1 align="center">Hey 😎, my name is Uriel Thoma</h1>
 <h3 align="center">I'm a passionate app developer</h3>
 
-- 💬 Ask me about **Kotlin, Java, XML, Firebase**
+## Ask me about **Kotlin, Java, XML, Firebase**
 
 
 <h3 align="left">Connect with me:</h3>
